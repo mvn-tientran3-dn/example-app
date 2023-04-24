@@ -1,0 +1,13 @@
+/public/storage
+/public/coverage
+.env
+
+# packages & libraries
+/vendor
+
+#phpunit
+coverage
+
+# othres
+.DS_Store
+storage/framework/testing
