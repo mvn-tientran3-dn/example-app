@@ -11,3 +11,4 @@ coverage
 # othres
 .DS_Store
 storage/framework/testing
+.phpunit.result.cache
